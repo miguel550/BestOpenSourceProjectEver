@@ -6,7 +6,18 @@ import sys
 def main():
     """Main driver function"""
 
+    print("=======================================================")
+    print("=__________ ________    ______________________________=")
+    print("=\______   \\_____  \  /   _____/\______   \_   _____/=")
+    print("= |    |  _/ /   |   \ \_____  \  |     ___/|    __)_ =")
+    print("= |    |   \/    |    \/        \ |    |    |        \=")
+    print("= |______  /\_______  /_______  / |____|   /_______  /=")
+    print("=        \/         \/        \/                   \/ =")
+    print("=    The world is a happy place, you should be too    =")
+    print("=======================================================")
     print("Hello World :D")
+    print("The world is a happy place, you should be too")
+    
 
 
 def setup(write_file):
